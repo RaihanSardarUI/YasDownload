@@ -1,1 +1,1 @@
-{"Release":"2023-11-29","Version":"7.79","what":", fix  instagram","LastVersionDate":"2023-11-29","Notes":", fix  instagram","Tw":"1","URL":"http:\/\/s1.yas8p.com","sy":{"https:\/\/dt176.jujauauaaaar.xyz\/api\/json\/convert":"https:\/\/dt176.jujauauaaaar.xyz\/api\/json\/convert"}}
+{"Release":"2023-11-29","Version":"7.78","what":", fix  instagram","LastVersionDate":"2023-11-29","Notes":", fix  instagram","Tw":"1","URL":"http:\/\/s1.yas8p.com","sy":{"https:\/\/dt176.jujauauaaaar.xyz\/api\/json\/convert":"https:\/\/dt176.jujauauaaaar.xyz\/api\/json\/convert"}}
